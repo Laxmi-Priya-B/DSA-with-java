@@ -37,4 +37,12 @@
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
