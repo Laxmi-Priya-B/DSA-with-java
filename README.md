@@ -63,6 +63,7 @@
 | [0020-valid-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
 ## Stack
 |  |
 | ------- |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0191-number-of-1-bits) |
+## Union-Find
+|  |
+| ------- |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
