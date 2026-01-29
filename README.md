@@ -12,6 +12,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
 | [0860-lemonade-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0860-lemonade-change) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1535-find-the-winner-of-an-array-game) |
 ## Simulation
@@ -68,6 +69,7 @@
 | [0020-valid-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
 ## Stack
 |  |
@@ -98,5 +100,10 @@
 ## Union-Find
 |  |
 | ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
