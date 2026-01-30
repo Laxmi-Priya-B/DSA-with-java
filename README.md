@@ -65,6 +65,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
@@ -72,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
@@ -97,6 +99,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
 | [0338-counting-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
