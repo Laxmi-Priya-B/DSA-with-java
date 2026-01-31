@@ -5,6 +5,9 @@ class Solution {
             count = (count+k)%i;
         }
         return count+1;
+
+
+
         // List<Integer> list = new ArrayList<>();
         // for (int i = 1; i <= n; i++){
         //     list.add(i);
@@ -16,5 +19,15 @@ class Solution {
         //     list.remove(i);
         // }
         // return list.get(0);
+
+        
+        // return last(n,k)+1;
+
     }
+    // static int last(int n,int k){
+    //     if(n==1) return 0;
+
+    //     return ((last(n-1,k))+k)%n;
+    // }
+
 }
