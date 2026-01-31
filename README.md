@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0189-rotate-array) |
@@ -105,11 +106,13 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0191-number-of-1-bits) |
 ## Union-Find
 |  |
