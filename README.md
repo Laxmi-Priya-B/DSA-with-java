@@ -51,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
@@ -70,6 +71,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
