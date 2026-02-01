@@ -25,6 +25,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Simulation
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0075-sort-colors](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
 | ------- |
