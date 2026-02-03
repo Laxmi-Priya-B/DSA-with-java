@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
+| [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
@@ -55,6 +56,7 @@
 | [0189-rotate-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
+| [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -66,6 +68,7 @@
 | [0231-power-of-two](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0338-counting-bits) |
+| [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
