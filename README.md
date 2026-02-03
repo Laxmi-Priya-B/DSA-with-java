@@ -8,6 +8,7 @@
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0152-maximum-product-subarray) |
@@ -64,6 +65,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0231-power-of-two) |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
