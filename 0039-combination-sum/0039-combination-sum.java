@@ -13,8 +13,8 @@ class Solution {
         if(k<0) return;
         for(int j=i;j<nums.length;j++){
             list.add(nums[j]);
-            helper(nums, k - nums[j], j);
-            list.remove(list.size() -1);
+            helper(nums,k-nums[j],j);
+            list.remove(list.size()-1);
         }
     }
 }
