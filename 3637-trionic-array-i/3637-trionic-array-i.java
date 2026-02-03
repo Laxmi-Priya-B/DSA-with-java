@@ -6,16 +6,16 @@ class Solution {
             i++;
         }
         if(i==0) return false;
-        int mid = i;
+        int temp = i;
         while(i+1 < n && nums[i+1] < nums[i]){
             i++;
         }
-        if(i==mid) return false;
-        int last =i;
+        if(i==temp) return false;
+        temp =i;
         while(i+1 < n && nums[i] <nums[i+1]){
             i++;
         }
-        if(i==last) return false;
+        if(i==temp) return false;
         return i ==n-1;
     }
 }
