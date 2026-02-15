@@ -4,7 +4,9 @@ class Solution {
         int j=0;
         int maxlen=0;
         for(int i=0;i<nums.length;i++){
-            if(nums[i]==0) c0++;
+            if(nums[i]==0){
+                c0++;
+            }
             while(c0>k){
                 if(nums[j]==0){
                     c0--;
