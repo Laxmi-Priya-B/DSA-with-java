@@ -121,6 +121,7 @@
 | [0020-valid-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0208-implement-trie-prefix-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -135,6 +136,7 @@
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -182,6 +184,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Enumeration
 |  |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
