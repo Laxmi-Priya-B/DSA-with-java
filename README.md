@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
