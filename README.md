@@ -26,6 +26,7 @@
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
 | [0860-lemonade-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
 |  |
@@ -108,6 +110,7 @@
 | [0283-move-zeroes](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0283-move-zeroes) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -145,6 +148,7 @@
 | [0075-sort-colors](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
