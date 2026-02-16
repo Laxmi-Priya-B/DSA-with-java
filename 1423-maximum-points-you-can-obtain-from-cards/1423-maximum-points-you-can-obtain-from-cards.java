@@ -1,7 +1,7 @@
 class Solution {
     public int maxScore(int[] cardPoints, int k) {
         int len = cardPoints.length;
-        int total =0;
+        int total=0;
         for(int i:cardPoints){
             total+=i;
         }
