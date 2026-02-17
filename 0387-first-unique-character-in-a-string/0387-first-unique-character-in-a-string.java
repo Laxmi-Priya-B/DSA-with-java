@@ -1,6 +1,5 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashSet<Character> set = new HashSet<>();
         for(int i=0;i<s.length();i++){
             boolean flag = true;
             for(int j=0;j<s.length();j++){
@@ -9,7 +8,6 @@ class Solution {
                     flag = false;
                     break;
                 }
-                
             }
             if(flag){
                 return i;
