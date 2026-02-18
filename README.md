@@ -29,6 +29,7 @@
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -53,6 +54,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3634-minimum-removals-to-balance-array) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
@@ -142,6 +145,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
