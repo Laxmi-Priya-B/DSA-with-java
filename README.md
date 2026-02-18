@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0039-combination-sum) |
@@ -65,6 +66,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
 | [0860-lemonade-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0075-sort-colors) |
