@@ -251,4 +251,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
