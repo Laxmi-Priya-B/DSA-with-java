@@ -94,6 +94,7 @@
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
 | [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -198,6 +199,7 @@
 | [0509-fibonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
+| [1137-n-th-tribonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -308,4 +310,5 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
