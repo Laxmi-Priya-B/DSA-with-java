@@ -3,7 +3,7 @@ class Solution {
         if(stones.length ==0){
             return 0;
         }
-        if(stones.length==1) return 1;
+        if(stones.length==1) return stones[0];
         List<Integer> list = new ArrayList<>();
         for(int n:stones){
             list.add(n);
