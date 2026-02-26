@@ -147,6 +147,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Stack
 |  |
 | ------- |
