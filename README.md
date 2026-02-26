@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0039-combination-sum) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
@@ -281,6 +283,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0208-implement-trie-prefix-tree) |
 ## Heap (Priority Queue)
 |  |
