@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
@@ -185,6 +187,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0152-maximum-product-subarray) |
