@@ -6,8 +6,8 @@ class Solution {
         helper(digits,new StringBuilder(),0);
         return res;
     }
-    void helper(String digits,StringBuilder sb, int idx){
-        if(idx == digits.length()){
+    void helper(String digits,StringBuilder sb,int idx){
+        if(idx==digits.length()){
             res.add(sb.toString());
             return;
         }
@@ -19,6 +19,7 @@ class Solution {
             sb.deleteCharAt(sb.length()-1);
         }
     }
+        
 
 
 
