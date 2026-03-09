@@ -20,6 +20,7 @@
 | [0078-subsets](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
@@ -175,6 +176,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0242-valid-anagram) |
@@ -232,6 +234,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0200-number-of-islands) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
