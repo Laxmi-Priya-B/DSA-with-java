@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -178,6 +179,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
@@ -196,6 +198,7 @@
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3634-minimum-removals-to-balance-array) |
@@ -223,6 +226,7 @@
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 ## Union-Find
@@ -252,6 +256,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
@@ -300,6 +305,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
@@ -334,4 +340,12 @@
 |  |
 | ------- |
 | [2761-prime-pairs-with-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2761-prime-pairs-with-target-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
