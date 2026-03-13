@@ -49,6 +49,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1046-last-stone-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1823-find-the-winner-of-the-circular-game) |
