@@ -50,6 +50,7 @@
 | [1046-last-stone-weight](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1046-last-stone-weight) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -80,6 +81,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
@@ -249,6 +251,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
 | [1137-n-th-tribonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1137-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
 |  |
 | ------- |
