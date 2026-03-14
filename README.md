@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0015-3sum) |
@@ -213,6 +214,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
@@ -255,6 +257,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0190-reverse-bits) |
