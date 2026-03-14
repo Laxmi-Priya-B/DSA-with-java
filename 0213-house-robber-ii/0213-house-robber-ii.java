@@ -3,11 +3,9 @@ class Solution {
         int n = nums.length;
         
         if(n == 1) return nums[0];
-        
-        return Math.max(
-            helper(nums, 0, n-2),
-            helper(nums, 1, n-1)
-        );
+        int res1 =  helper(nums, 0, n-2);
+        int res2 = helper(nums, 1, n-1);
+        return Math.max(res1, res2);
     }
     int helper(int[] nums, int start, int end) {
         int prev1 = 0;
