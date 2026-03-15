@@ -311,6 +311,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0110-balanced-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -318,11 +319,13 @@
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0200-number-of-islands) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0110-balanced-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -370,6 +373,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0322-coin-change) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
