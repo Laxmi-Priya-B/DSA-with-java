@@ -68,6 +68,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0412-fizz-buzz) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -113,6 +114,7 @@
 | [0189-rotate-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0509-fibonacci-number) |
@@ -184,6 +186,7 @@
 | [0242-valid-anagram](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0424-longest-repeating-character-replacement) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
