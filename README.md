@@ -28,6 +28,7 @@
 | [0090-subsets-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
@@ -117,6 +118,7 @@
 | [0050-powx-n](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
@@ -207,6 +209,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0155-min-stack) |
 ## Hash Table
 |  |
