@@ -49,6 +49,7 @@
 | [0860-lemonade-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1046-last-stone-weight) |
@@ -169,6 +170,7 @@
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -241,6 +243,7 @@
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3634-minimum-removals-to-balance-array) |
