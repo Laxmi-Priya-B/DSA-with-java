@@ -8,7 +8,7 @@ class Solution {
 
     void helper(int n,int k,int idx){
         
-        if(list.size()>=k){
+        if(list.size()==k){
             res.add(new ArrayList(list));
             return;
         }
