@@ -57,6 +57,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1046-last-stone-weight) |
+| [1219-path-with-maximum-gold](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1219-path-with-maximum-gold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -334,6 +335,7 @@
 | [0078-subsets](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0090-subsets-ii) |
+| [1219-path-with-maximum-gold](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1219-path-with-maximum-gold) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
@@ -403,6 +405,7 @@
 | [0048-rotate-image](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0200-number-of-islands) |
+| [1219-path-with-maximum-gold](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1219-path-with-maximum-gold) |
 ## Breadth-First Search
 |  |
 | ------- |
