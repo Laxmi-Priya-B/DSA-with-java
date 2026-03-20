@@ -115,6 +115,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0062-unique-paths) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0020-valid-parentheses) |
@@ -218,6 +220,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0076-minimum-window-substring) |
