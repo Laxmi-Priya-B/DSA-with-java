@@ -1,6 +1,5 @@
 class Solution {
     public boolean hasGroupsSizeX(int[] deck) {
-        if(deck.length==1) return false;
         HashMap<Integer, Integer> map = new HashMap<>();
         for(int i:deck){
             map.put(i, map.getOrDefault(i,0)+1);
