@@ -28,6 +28,7 @@
 | [0090-subsets-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -196,6 +197,7 @@
 | [0049-group-anagrams](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0208-implement-trie-prefix-tree) |
@@ -229,6 +231,7 @@
 | [0049-group-anagrams](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0242-valid-anagram) |
@@ -276,6 +279,7 @@
 | [0055-jump-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0213-house-robber-ii) |
@@ -383,6 +387,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0208-implement-trie-prefix-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -422,6 +427,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1137-n-th-tribonacci-number) |
 ## Number Theory
