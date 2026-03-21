@@ -6,13 +6,7 @@ class Solution {
         }
         int t = 0;
         for(int val:map.values()){
-            if(t == -1){
-                t = val;
-            }
-            else{
-                t = gcd(t,val);
-            }
-            if(t == 1) return false;
+            t = gcd(t,val);
         }
         return t >= 2;
     }
