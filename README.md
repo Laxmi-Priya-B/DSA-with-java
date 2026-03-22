@@ -45,6 +45,7 @@
 | [0322-coin-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
+| [0485-max-consecutive-ones](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0744-find-smallest-letter-greater-than-target) |
