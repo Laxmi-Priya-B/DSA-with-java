@@ -203,6 +203,7 @@
 | [0049-group-anagrams](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0179-largest-number) |
@@ -289,6 +290,7 @@
 | [0055-jump-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0198-house-robber) |
@@ -354,6 +356,7 @@
 | [0078-subsets](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0131-palindrome-partitioning) |
 | [1219-path-with-maximum-gold](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1219-path-with-maximum-gold) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
