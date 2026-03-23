@@ -48,6 +48,7 @@
 | [0475-heaters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0494-target-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -299,6 +300,7 @@
 | [0322-coin-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
@@ -359,6 +361,7 @@
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0494-target-sum) |
 | [1219-path-with-maximum-gold](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1219-path-with-maximum-gold) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
