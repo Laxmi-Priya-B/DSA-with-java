@@ -124,6 +124,7 @@
 | [0860-lemonade-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Stack
 |  |
@@ -231,6 +233,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0739-daily-temperatures) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
