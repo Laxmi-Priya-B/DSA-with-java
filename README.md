@@ -58,6 +58,7 @@
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -122,6 +123,7 @@
 | [0055-jump-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0179-largest-number) |
 | [0860-lemonade-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0860-lemonade-change) |
+| [0861-score-after-flipping-matrix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -161,6 +163,7 @@
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0338-counting-bits) |
 | [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
+| [0861-score-after-flipping-matrix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0861-score-after-flipping-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -443,6 +446,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0200-number-of-islands) |
+| [0861-score-after-flipping-matrix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0861-score-after-flipping-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1219-path-with-maximum-gold) |
 ## Breadth-First Search
 |  |
