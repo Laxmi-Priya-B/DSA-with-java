@@ -434,6 +434,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0584-find-customer-referee) |
+| [1527-patients-with-a-condition](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1527-patients-with-a-condition) |
 ## Combinatorics
 |  |
 | ------- |
