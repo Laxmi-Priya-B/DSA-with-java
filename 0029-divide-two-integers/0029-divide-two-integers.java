@@ -4,7 +4,6 @@ class Solution {
             return Math.abs(dividend)-1;
         }
         return dividend/divisor;
-        
     }
 }
 // class Solution {
