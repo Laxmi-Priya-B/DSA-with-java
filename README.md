@@ -230,6 +230,7 @@
 | [0392-is-subsequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0796-rotate-string) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -504,4 +505,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
