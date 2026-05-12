@@ -48,6 +48,7 @@
 | [0283-move-zeroes](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0485-max-consecutive-ones) |
@@ -201,6 +202,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0475-heaters) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
@@ -271,6 +273,7 @@
 | [0242-valid-anagram](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0424-longest-repeating-character-replacement) |
@@ -285,6 +288,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0475-heaters) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -302,6 +306,7 @@
 | [0242-valid-anagram](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0389-find-the-difference) |
 | [0475-heaters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0475-heaters) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
