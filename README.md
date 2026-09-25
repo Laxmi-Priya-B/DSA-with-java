@@ -3,8 +3,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0011-container-with-most-water) |
@@ -76,6 +76,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -88,8 +89,8 @@
 | [3637-trionic-array-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0412-fizz-buzz) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -97,8 +98,8 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0239-sliding-window-maximum) |
@@ -110,18 +111,20 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
@@ -133,8 +136,8 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0048-rotate-image) |
@@ -159,8 +162,8 @@
 | [2761-prime-pairs-with-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2761-prime-pairs-with-target-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0090-subsets-ii) |
@@ -177,8 +180,8 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0050-powx-n) |
@@ -187,8 +190,8 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0015-3sum) |
@@ -213,8 +216,8 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0010-regular-expression-matching) |
@@ -248,8 +251,8 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -258,8 +261,8 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0012-integer-to-roman) |
@@ -281,11 +284,12 @@
 | [0904-fruit-into-baskets](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -295,9 +299,10 @@
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0047-permutations-ii) |
@@ -317,8 +322,8 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0042-trapping-rain-water) |
@@ -346,8 +351,8 @@
 | [1137-n-th-tribonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
@@ -358,41 +363,41 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0200-number-of-islands) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0845-longest-mountain-in-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2761-prime-pairs-with-target-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0040-combination-sum-ii) |
@@ -408,16 +413,16 @@
 | [1219-path-with-maximum-gold](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1219-path-with-maximum-gold) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0200-number-of-islands) |
@@ -425,57 +430,57 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0208-implement-trie-prefix-tree) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0584-find-customer-referee) |
 | [1527-patients-with-a-condition](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1527-patients-with-a-condition) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0073-set-matrix-zeroes) |
@@ -484,41 +489,41 @@
 | [0861-score-after-flipping-matrix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0861-score-after-flipping-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1219-path-with-maximum-gold) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1137-n-th-tribonacci-number) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2761-prime-pairs-with-target-sum) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0739-daily-temperatures) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
