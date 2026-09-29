@@ -337,6 +337,7 @@
 | [0062-unique-paths](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0152-maximum-product-subarray) |
@@ -420,6 +421,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
@@ -428,6 +430,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -437,6 +440,7 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
@@ -529,4 +533,8 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0796-rotate-string) |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
