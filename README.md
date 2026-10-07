@@ -54,6 +54,7 @@
 | [0475-heaters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
@@ -301,6 +302,7 @@
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0475-heaters) |
+| [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1004-max-consecutive-ones-iii) |
@@ -365,6 +367,7 @@
 | [0190-reverse-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
@@ -453,6 +456,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 ## Design
 | Problem Name | Difficulty |
@@ -539,4 +543,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
