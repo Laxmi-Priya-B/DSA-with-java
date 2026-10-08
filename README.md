@@ -51,6 +51,7 @@
 | [0322-coin-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0475-heaters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0485-max-consecutive-ones) |
@@ -119,6 +120,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
@@ -134,6 +136,7 @@
 | [0045-jump-game-ii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0860-lemonade-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0881-boats-to-save-people) |
@@ -301,6 +304,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0475-heaters](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
@@ -350,6 +354,7 @@
 | [0322-coin-change](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0746-min-cost-climbing-stairs) |
