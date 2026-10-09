@@ -253,6 +253,7 @@
 | [0796-rotate-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0796-rotate-string) |
 | [0809-expressive-words](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0809-expressive-words) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
+| [1021-remove-outermost-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -266,6 +267,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
@@ -564,4 +566,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
