@@ -89,6 +89,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3637-trionic-array-i) |
@@ -298,6 +299,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -466,6 +468,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 ## Design
 | Problem Name | Difficulty |
@@ -556,6 +559,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0493-reverse-pairs/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
