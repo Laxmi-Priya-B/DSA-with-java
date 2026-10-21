@@ -261,6 +261,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
