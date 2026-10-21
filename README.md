@@ -205,6 +205,7 @@
 | [0011-container-with-most-water](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -578,4 +579,8 @@
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
