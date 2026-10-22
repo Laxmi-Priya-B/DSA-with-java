@@ -94,6 +94,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
