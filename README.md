@@ -93,6 +93,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3637-trionic-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Simulation
@@ -189,6 +190,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
