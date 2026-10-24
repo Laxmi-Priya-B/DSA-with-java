@@ -170,6 +170,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2409-count-days-spent-together](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/2409-count-days-spent-together/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2761-prime-pairs-with-target-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -265,6 +266,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/2409-count-days-spent-together/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
