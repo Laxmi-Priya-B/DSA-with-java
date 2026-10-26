@@ -92,6 +92,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3634-minimum-removals-to-balance-array](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3637-trionic-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -399,6 +400,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0990-satisfiability-of-equality-equations) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1254-number-of-closed-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,6 +465,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1382-balance-a-binary-search-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -526,6 +529,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0861-score-after-flipping-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -535,6 +539,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
