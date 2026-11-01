@@ -519,6 +519,7 @@
 | [0550-game-play-analysis-iv](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0584-find-customer-referee](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0584-find-customer-referee) |
 | [0619-biggest-single-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0619-biggest-single-number/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1527-patients-with-a-condition) |
