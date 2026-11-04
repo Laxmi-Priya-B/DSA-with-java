@@ -98,6 +98,7 @@
 | [3637-trionic-array-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3637-trionic-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3719-longest-balanced-subarray-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Simulation
@@ -178,6 +179,7 @@
 | [2409-count-days-spent-together](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/2409-count-days-spent-together/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/2761-prime-pairs-with-target-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
