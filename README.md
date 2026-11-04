@@ -518,6 +518,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0176-second-highest-salary) |
+| [0180-consecutive-numbers](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0180-consecutive-numbers/) | Medium |
 | [0550-game-play-analysis-iv](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0584-find-customer-referee](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/0584-find-customer-referee) |
 | [0619-biggest-single-number](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/0619-biggest-single-number/) | Easy |
