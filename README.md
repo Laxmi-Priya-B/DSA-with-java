@@ -526,6 +526,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/master/1527-patients-with-a-condition) |
 | [1729-find-followers-count](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Laxmi-Priya-B/DSA-with-java/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
